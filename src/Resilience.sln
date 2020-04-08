@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResilienceSample", "ResilienceSample\ResilienceSample.csproj", "{F583D1A0-7B4E-416A-A298-1805BF532D48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{7498B4C3-F6C5-44E0-9F02-CE204BC49149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F583D1A0-7B4E-416A-A298-1805BF532D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F583D1A0-7B4E-416A-A298-1805BF532D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F583D1A0-7B4E-416A-A298-1805BF532D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F583D1A0-7B4E-416A-A298-1805BF532D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7498B4C3-F6C5-44E0-9F02-CE204BC49149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7498B4C3-F6C5-44E0-9F02-CE204BC49149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7498B4C3-F6C5-44E0-9F02-CE204BC49149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7498B4C3-F6C5-44E0-9F02-CE204BC49149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43688BFE-BA91-4E95-81EF-180CE238E7A4}
+	EndGlobalSection
+EndGlobal
